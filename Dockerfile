@@ -10,4 +10,4 @@ ARG DD_SITE
 #        /proc/:/host/proc/:ro \
 #        /sys/fs/cgroup/:/host/sys/fs/cgroup:ro
 
-CMD ["agent"]
+# CMD ["agent"]
